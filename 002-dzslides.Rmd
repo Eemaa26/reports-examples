@@ -91,6 +91,9 @@ presentation("NEW")
 # 
 [[[kws1PX1Dw9w]]]=yt
 
+# REVEAL.JS Slides
+These slides are pretty slick: [reveal.js](http://trinker.github.com/reports/examples/output/reveal.js/)
+
 
 # References
 ```{r, echo=FALSE, results='asis'}
