@@ -77,3 +77,6 @@ Change background colors
 # Last slide
 For more see: [reveal.js](http://lab.hakim.se/reveal-js/#/)    
 Created with [reports](https://github.com/trinker/reports) package
+<br><br>
+<br><br>
+[[[<a href="#/0">Back to the Begining</a>]]]=small
