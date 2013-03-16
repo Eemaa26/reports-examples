@@ -5,6 +5,16 @@
 
 
 
+# Special Features 
+- `esc` to enter the slide overview 
+- `b` or `.` pause (black screen)
+- `alt` and click on any element to zoom in on it
+- `s` to see presentation notes*
+<br>
+<br>
+*<em>must be online (DropBox is a possibility)</em>
+
+
 # Slide 1
 Remember many HTML tags are valid   
 So using:  
@@ -51,9 +61,9 @@ Change background colors
 
 # Slide 5d  
   
-- point 1    
-- point 2    
-- point 3  
+- point 1 [[[]]]=frag   
+- point 2 [[[]]]=frag   
+- point 3 [[[]]]=frag 
 - point 4 [[[]]]=frag-rollin  
 - not a point [[[]]]=frag-highlight-green 
 - just colorful [[[]]]=frag-highlight-blue
@@ -62,6 +72,7 @@ Change background colors
 [[[this it a 2 note]]]=notes
 
 [[[]]]=eud
+
 
 # Last slide
 For more see: [reveal.js](http://lab.hakim.se/reveal-js/#/)    
